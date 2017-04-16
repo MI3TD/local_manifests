@@ -4,7 +4,7 @@
   <remote  name="omnirom_MI3TD"
            fetch=".."
            review="gerrit.omnirom.org"
-           revision="android-6.0"
+           revision="android-7.1"
            />
 
   <remote  name="MI3TD"
